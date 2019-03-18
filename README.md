@@ -4,6 +4,11 @@
 </p>
 <br />
 
+- has not so stable APIs
+- No intermediate representation
+- uses z3
+- easy to use
+- active development and support
 
 [![Build Status](https://travis-ci.org/trailofbits/manticore.svg?branch=master)](https://travis-ci.org/trailofbits/manticore)
 [![PyPI version](https://badge.fury.io/py/manticore.svg)](https://badge.fury.io/py/manticore)
